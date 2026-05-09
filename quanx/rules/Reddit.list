@@ -1,0 +1,14 @@
+# NAME: Reddit
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:47
+# HOST-SUFFIX: 8
+# TOTAL: 8
+HOST-SUFFIX,redd.it
+HOST-SUFFIX,reddit.com
+HOST-SUFFIX,redditmail.com
+HOST-SUFFIX,redditmedia.com
+HOST-SUFFIX,redditstatic.com
+HOST-SUFFIX,reddituploads.com
+HOST-SUFFIX,reddituploads.com.cdn-cf.behance.net
+HOST-SUFFIX,reddituploads.com.cdn-cf.dropbox.com

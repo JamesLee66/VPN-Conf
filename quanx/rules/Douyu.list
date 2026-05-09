@@ -1,0 +1,19 @@
+# NAME: Douyu
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:30
+# HOST-SUFFIX: 13
+# TOTAL: 13
+HOST-SUFFIX,bytefcdnrd.com
+HOST-SUFFIX,douyu.com
+HOST-SUFFIX,douyu.tv
+HOST-SUFFIX,douyuba.cn
+HOST-SUFFIX,douyucdn.cn
+HOST-SUFFIX,douyucdn2.cn
+HOST-SUFFIX,douyupcdn.cn
+HOST-SUFFIX,douyuscdn.com
+HOST-SUFFIX,douyutv.com
+HOST-SUFFIX,doyonoc.com
+HOST-SUFFIX,edgesrv.com
+HOST-SUFFIX,guguyuyin.com
+HOST-SUFFIX,oywtv.com
