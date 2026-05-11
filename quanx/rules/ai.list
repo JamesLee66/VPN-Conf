@@ -18,11 +18,16 @@ payload:
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
+
+# > aws/kiro
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,api.aws
   - DOMAIN-SUFFIX,kiro.dev
+  - DOMAIN-SUFFIX,signin.aws
 
 # > Anthropic/Claude
   - DOMAIN,cdn.usefathom.com
@@ -32,6 +37,7 @@ payload:
 
 # > Cursor
   - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor.com
 
 # > Dify AI
   - DOMAIN-SUFFIX,dify.ai
@@ -148,6 +154,7 @@ payload:
 # > xAI/Grok
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
+
 # shadowrocket ai.list
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
