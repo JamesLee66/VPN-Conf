@@ -23,4 +23,5 @@ HOST-SUFFIX,googleusercontent.com
 HOST-KEYWORD,colab
 HOST-KEYWORD,developerprofiles
 HOST-KEYWORD,generativelanguage
-
+HOST-SUFFIX,notebooklm.google
+DOMAIN,notebooklm.google.com
