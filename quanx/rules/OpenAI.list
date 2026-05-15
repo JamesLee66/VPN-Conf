@@ -38,6 +38,7 @@ HOST-SUFFIX,openaicom.imgix.net
 HOST-SUFFIX,segment.io
 HOST-SUFFIX,sentry.io
 HOST-SUFFIX,stripe.com
+HOST-SUFFIX,stripecdn.com
 HOST-SUFFIX,turn.livekit.cloud
 HOST-KEYWORD,openai
 IP-CIDR,24.199.123.28/32
