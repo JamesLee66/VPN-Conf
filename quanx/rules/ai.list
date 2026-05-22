@@ -19,15 +19,6 @@ payload:
   - HOST-SUFFIX,wp.com
   - HOST-SUFFIX,sentry.io
 
-# > aws/kiro
-  - HOST-SUFFIX,amazon.com
-  - HOST-SUFFIX,amazonaws.com
-  - HOST-SUFFIX,api.aws
-  - HOST-SUFFIX,kiro.dev
-  - HOST-SUFFIX,signin.aws
-  - HOST-SUFFIX,aws.com
-  - HOST-SUFFIX,aws.dev
-
 
 # > Cursor
   - HOST-SUFFIX,cursor.sh
