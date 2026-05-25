@@ -42,7 +42,6 @@ HOST-SUFFIX,nflxsearch.net
 HOST-SUFFIX,nflxso.net
 HOST-SUFFIX,nflxvideo.net
 HOST-SUFFIX,onetrust.com
-HOST-SUFFIX,us-west-2.amazonaws.com
 HOST-WILDCARD,netflixdnstest*.com
 HOST-KEYWORD,apiproxy-device-prod-nlb-
 HOST-KEYWORD,dualstack.apiproxy-
