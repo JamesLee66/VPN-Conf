@@ -38,6 +38,16 @@ HOST-SUFFIX,alexafund.cn
 HOST-SUFFIX,alexafund.com.cn
 HOST-SUFFIX,amaaozn.com
 HOST-SUFFIX,amazon
+HOST-SUFFIX,amazoncognito.com
+DOMAIN,ktpx.amazon.com
+DOMAIN-SUFFIX,aboutamazon.com
+DOMAIN-SUFFIX,amazon.jobs
+DOMAIN-SUFFIX,amazontools.com
+DOMAIN-SUFFIX,amazontours.com
+DOMAIN-SUFFIX,amazonuniversity.jobs
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,media-amazon.com
+URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 HOST-SUFFIX,amazon-adsystem.com
 HOST-SUFFIX,amazon-fashions.com
 HOST-SUFFIX,amazon-jp-recruiting.com
