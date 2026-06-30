@@ -15,7 +15,6 @@ HOST,aqi.aqicn.org
 HOST,assets-priconne-redive-us.akamaized.net
 HOST,assets.msn.com
 HOST,cdp.cloud.unity3d.com
-HOST,cloud.oracle.com
 HOST,copilot.microsoft.com
 HOST,cvws.icloud-content.com
 HOST,d1q6f0aelx0por.cloudfront.net
@@ -4269,7 +4268,6 @@ HOST-SUFFIX,openwebster.com
 HOST-SUFFIX,openwrt.org
 HOST-SUFFIX,opera.com
 HOST-SUFFIX,opus-gaming.com
-HOST-SUFFIX,oraclecloud.com
 HOST-SUFFIX,organcare.org.tw
 HOST-SUFFIX,organharvestinvestigation.net
 HOST-SUFFIX,organiccrap.com
