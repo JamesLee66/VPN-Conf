@@ -6,7 +6,6 @@ payload:
 # > Ai general rules
   - HOST,api.statsig.com
   - HOST,browser-intake-datadoghq.com
-  - HOST,static.cloudflareinsights.com
   - HOST-SUFFIX,algolia.net
   - HOST-SUFFIX,arkoselabs.com
   - HOST-SUFFIX,statsigapi.net
