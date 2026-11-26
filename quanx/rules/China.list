@@ -11,12 +11,10 @@
 # USER-AGENT: 31
 # TOTAL: 3759
 HOST,analytics.strava.com
-HOST,blzddist1-a.akamaihd.net
 HOST,cdn.angruo.com
 HOST,cdn.lilyemby.com
 HOST,client.amplifi.com
 HOST,download.jetbrains.com
-HOST,download.microsoft.com
 HOST,images-cn.ssl-images-amazon.com
 HOST,ip.istatmenus.app
 HOST,kc.kexinshe.com
@@ -25,9 +23,7 @@ HOST,origin-a.akamaihd.ne
 HOST,origin-a.akamaihd.net
 HOST,smart.uhdnow.com
 HOST,sms.imagetasks.com
-HOST,steamcommunity-a.akamaihd.net
 HOST,tx.lilyemby.com
-HOST,weixin.com
 HOST,www.libvideo.com
 HOST,www.yxssp.com
 HOST-SUFFIX,00cdn.com
@@ -307,7 +303,6 @@ HOST-SUFFIX,9ht.com
 HOST-SUFFIX,9xgame.com
 HOST-SUFFIX,9xu.com
 HOST-SUFFIX,a9vg.com
-HOST-SUFFIX,aaplimg.com
 HOST-SUFFIX,aardio.com
 HOST-SUFFIX,abc-ca.com
 HOST-SUFFIX,abchina.com
@@ -318,8 +313,6 @@ HOST-SUFFIX,acctdns.com
 HOST-SUFFIX,acctdns.net
 HOST-SUFFIX,acetaffy.club
 HOST-SUFFIX,acfun.tv
-HOST-SUFFIX,acg.tv
-HOST-SUFFIX,acgvideo.com
 HOST-SUFFIX,acm.org
 HOST-SUFFIX,acplay.net
 HOST-SUFFIX,acs.org
@@ -362,7 +355,6 @@ HOST-SUFFIX,aixifan.com
 HOST-SUFFIX,aiyunxiao.com
 HOST-SUFFIX,aizhan.com
 HOST-SUFFIX,ajzq.com
-HOST-SUFFIX,akadns.net
 HOST-SUFFIX,aldwx.com
 HOST-SUFFIX,ali213.net
 HOST-SUFFIX,aliapp.org
@@ -438,9 +430,7 @@ HOST-SUFFIX,ams.org
 HOST-SUFFIX,andfx.net
 HOST-SUFFIX,anfensi.com
 HOST-SUFFIX,animebytes.tv
-HOST-SUFFIX,animetamashi.com
 HOST-SUFFIX,animetorrents.me
-HOST-SUFFIX,anitama.net
 HOST-SUFFIX,anjuke.com
 HOST-SUFFIX,anjukestatic.com
 HOST-SUFFIX,annualreviews.org
@@ -487,7 +477,6 @@ HOST-SUFFIX,atatech.org
 HOST-SUFFIX,autonavi.com
 HOST-SUFFIX,avicsec.com
 HOST-SUFFIX,awesome-hd.me
-HOST-SUFFIX,b23.tv
 HOST-SUFFIX,b2byao.com
 HOST-SUFFIX,b3log.org
 HOST-SUFFIX,b612.net
@@ -541,7 +530,6 @@ HOST-SUFFIX,bdxiguastatic.com
 HOST-SUFFIX,bdydns.com
 HOST-SUFFIX,bdydns.net
 HOST-SUFFIX,bearychat.com
-HOST-SUFFIX,beatsbydre.com
 HOST-SUFFIX,beihaidc.com
 HOST-SUFFIX,beijing-lipin.com
 HOST-SUFFIX,beitaichufang.com
@@ -559,28 +547,6 @@ HOST-SUFFIX,bidchance.com
 HOST-SUFFIX,biddingx.com
 HOST-SUFFIX,bihu.com
 HOST-SUFFIX,biji.com
-HOST-SUFFIX,biliapi.com
-HOST-SUFFIX,biliapi.net
-HOST-SUFFIX,bilibili.cc
-HOST-SUFFIX,bilibili.com
-HOST-SUFFIX,bilibili.net
-HOST-SUFFIX,bilibili.tv
-HOST-SUFFIX,bilibiligame.co
-HOST-SUFFIX,bilibiligame.net
-HOST-SUFFIX,bilibilipay.com
-HOST-SUFFIX,bilicdn1.com
-HOST-SUFFIX,bilicdn2.com
-HOST-SUFFIX,bilicdn3.com
-HOST-SUFFIX,bilicdn4.com
-HOST-SUFFIX,bilicdn5.com
-HOST-SUFFIX,bilicomics.com
-HOST-SUFFIX,biligame.co
-HOST-SUFFIX,biligame.com
-HOST-SUFFIX,biligame.net
-HOST-SUFFIX,biligo.com
-HOST-SUFFIX,biliintl.com
-HOST-SUFFIX,bilivideo.com
-HOST-SUFFIX,bilivideo.net
 HOST-SUFFIX,bio-equip.com
 HOST-SUFFIX,bio360.net
 HOST-SUFFIX,bio4p.com
@@ -756,12 +722,6 @@ HOST-SUFFIX,cecdc.com
 HOST-SUFFIX,cecport.com
 HOST-SUFFIX,centanet.com
 HOST-SUFFIX,cerambath.org
-HOST-SUFFIX,cf-ns.com
-HOST-SUFFIX,cf-ns.net
-HOST-SUFFIX,cf-ns.site
-HOST-SUFFIX,cf-ns.tech
-HOST-SUFFIX,cftest7.com
-HOST-SUFFIX,cftest8.com
 HOST-SUFFIX,cfund108.com
 HOST-SUFFIX,cfzq.com
 HOST-SUFFIX,cgws.com
@@ -892,11 +852,6 @@ HOST-SUFFIX,clouddalian.com
 HOST-SUFFIX,clouddatong.com
 HOST-SUFFIX,clouddn.com
 HOST-SUFFIX,clouddongying.com
-HOST-SUFFIX,cloudflare-cn.com
-HOST-SUFFIX,cloudflarecn.net
-HOST-SUFFIX,cloudflareprod.com
-HOST-SUFFIX,cloudflarestaging.com
-HOST-SUFFIX,cloudflarestoragegw.com
 HOST-SUFFIX,cloudfoshan.com
 HOST-SUFFIX,cloudfront-cn.net
 HOST-SUFFIX,cloudfuqing.com
@@ -1205,16 +1160,11 @@ HOST-SUFFIX,douyinliving.com
 HOST-SUFFIX,douyinpic.com
 HOST-SUFFIX,douyinstatic.com
 HOST-SUFFIX,douyinvod.com
-HOST-SUFFIX,douyu.com
-HOST-SUFFIX,douyu.tv
-HOST-SUFFIX,douyuscdn.com
-HOST-SUFFIX,douyutv.com
 HOST-SUFFIX,downcc.com
 HOST-SUFFIX,downxia.com
 HOST-SUFFIX,downyi.com
 HOST-SUFFIX,dpfile.com
 HOST-SUFFIX,dratio.com
-HOST-SUFFIX,dreamcast.hk
 HOST-SUFFIX,dreams-travel.com
 HOST-SUFFIX,drivergenius.com
 HOST-SUFFIX,dtstatic.com
@@ -1549,8 +1499,6 @@ HOST-SUFFIX,hdchina.org
 HOST-SUFFIX,hdcmct.org
 HOST-SUFFIX,hddolby.com
 HOST-SUFFIX,hdhome.org
-HOST-SUFFIX,hdslb.com
-HOST-SUFFIX,hdslb.org
 HOST-SUFFIX,hdyxgame.com
 HOST-SUFFIX,healthjd.com
 HOST-SUFFIX,heavenlywind.cc
@@ -1611,7 +1559,6 @@ HOST-SUFFIX,hongxiu.com
 HOST-SUFFIX,hongyuanqh.com
 HOST-SUFFIX,hori-gz.com
 HOST-SUFFIX,hostbuf.com
-HOST-SUFFIX,hotmail.com
 HOST-SUFFIX,houdao.com
 HOST-SUFFIX,houyicaiji.com
 HOST-SUFFIX,houyuantuan.com
@@ -1770,8 +1717,6 @@ HOST-SUFFIX,ijinshan.com
 HOST-SUFFIX,ikafan.com
 HOST-SUFFIX,im-cc.com
 HOST-SUFFIX,im2maker.com
-HOST-SUFFIX,im9.com
-HOST-SUFFIX,images-amazon.com
 HOST-SUFFIX,imcapptest.com
 HOST-SUFFIX,imedao.com
 HOST-SUFFIX,imf.org
@@ -2266,7 +2211,6 @@ HOST-SUFFIX,mamecn.com
 HOST-SUFFIX,manhuatai.com
 HOST-SUFFIX,manmanbuy.com
 HOST-SUFFIX,manmankan.com
-HOST-SUFFIX,maoercdn.com
 HOST-SUFFIX,maoyan.com
 HOST-SUFFIX,maoyun.com
 HOST-SUFFIX,maoyun.tv
@@ -2281,10 +2225,8 @@ HOST-SUFFIX,mayshijia.com
 HOST-SUFFIX,mbalib.com
 HOST-SUFFIX,mbcloud.com
 HOST-SUFFIX,mcbang.com
-HOST-SUFFIX,mcbbs.net
 HOST-SUFFIX,mdeer.com
 HOST-SUFFIX,mdpda.com
-HOST-SUFFIX,me.com
 HOST-SUFFIX,me1.ltd
 HOST-SUFFIX,me4399.com
 HOST-SUFFIX,mechina.org
@@ -2321,7 +2263,6 @@ HOST-SUFFIX,miaomiaozhe.com
 HOST-SUFFIX,miaopai.com
 HOST-SUFFIX,miaostreet.com
 HOST-SUFFIX,miaozhen.com
-HOST-SUFFIX,microsoftonline.com
 HOST-SUFFIX,midasbuy.com
 HOST-SUFFIX,miercn.com
 HOST-SUFFIX,migucloud.com
@@ -2336,7 +2277,6 @@ HOST-SUFFIX,mihuashi.com
 HOST-SUFFIX,mijisou.com
 HOST-SUFFIX,mikecrm.com
 HOST-SUFFIX,minapp.com
-HOST-SUFFIX,mincdn.com
 HOST-SUFFIX,mingyuanyun.com
 HOST-SUFFIX,minhangshi.com
 HOST-SUFFIX,minitiao.com
@@ -2378,11 +2318,8 @@ HOST-SUFFIX,moulem.com
 HOST-SUFFIX,mpg.de
 HOST-SUFFIX,ms
 HOST-SUFFIX,msanjia.com
-HOST-SUFFIX,msauth.net
 HOST-SUFFIX,mscbsc.com
-HOST-SUFFIX,msecnd.net
 HOST-SUFFIX,mshare.cc
-HOST-SUFFIX,msocdn.com
 HOST-SUFFIX,msstatic.com
 HOST-SUFFIX,mszdld.com
 HOST-SUFFIX,mszdld.net
@@ -2421,7 +2358,6 @@ HOST-SUFFIX,myypark.com
 HOST-SUFFIX,myyx618.com
 HOST-SUFFIX,myzaker.com
 HOST-SUFFIX,mzres.com
-HOST-SUFFIX,mzstatic.com
 HOST-SUFFIX,na-mexico-1.myhuaweicloud.com
 HOST-SUFFIX,nagcloudcs.com
 HOST-SUFFIX,naixuecha.com
@@ -2473,9 +2409,6 @@ HOST-SUFFIX,ocwms.com
 HOST-SUFFIX,oecd-ilibrary.org
 HOST-SUFFIX,oeeee.com
 HOST-SUFFIX,offcn.com
-HOST-SUFFIX,office.com
-HOST-SUFFIX,office.net
-HOST-SUFFIX,office365.com
 HOST-SUFFIX,officese.com
 HOST-SUFFIX,oi-wiki.com
 HOST-SUFFIX,oicq88.com
@@ -2486,7 +2419,6 @@ HOST-SUFFIX,oldboyedu.com
 HOST-SUFFIX,oncdp.com
 HOST-SUFFIX,oneapm.com
 HOST-SUFFIX,onegreen.net
-HOST-SUFFIX,onenote.net
 HOST-SUFFIX,oneplus.com
 HOST-SUFFIX,oneplus.net
 HOST-SUFFIX,oneplusbbs.com
@@ -2523,7 +2455,6 @@ HOST-SUFFIX,oupeng.com
 HOST-SUFFIX,ourbits.club
 HOST-SUFFIX,ourdvs.com
 HOST-SUFFIX,ourdvsss.com
-HOST-SUFFIX,outlook.com
 HOST-SUFFIX,ovid.com
 HOST-SUFFIX,ovscdns.com
 HOST-SUFFIX,ovscdns.net
@@ -2746,7 +2677,6 @@ HOST-SUFFIX,ruguoapp.com
 HOST-SUFFIX,runoob.com
 HOST-SUFFIX,runsheng.com
 HOST-SUFFIX,rzrc114.com
-HOST-SUFFIX,s-microsoft.com
 HOST-SUFFIX,s-reader.com
 HOST-SUFFIX,sa-brazil-1.myhuaweicloud.com
 HOST-SUFFIX,saasops.tech
@@ -2777,7 +2707,6 @@ HOST-SUFFIX,segmentfault.com
 HOST-SUFFIX,sencdn.com
 HOST-SUFFIX,seniverse.com
 HOST-SUFFIX,senlinjimore.com
-HOST-SUFFIX,servicewechat.com
 HOST-SUFFIX,sf-airlines.com
 HOST-SUFFIX,sf-cityrush.com
 HOST-SUFFIX,sf-express.com
@@ -2797,7 +2726,6 @@ HOST-SUFFIX,shangzhibo.tv
 HOST-SUFFIX,shanhaitujian.com
 HOST-SUFFIX,shanshuihotel.com
 HOST-SUFFIX,sharejs.com
-HOST-SUFFIX,sharepoint.com
 HOST-SUFFIX,shebiaotm.com
 HOST-SUFFIX,shelter-china.com
 HOST-SUFFIX,shelterdome.net
@@ -2849,7 +2777,6 @@ HOST-SUFFIX,slk1.net
 HOST-SUFFIX,sllssrq.com
 HOST-SUFFIX,smartisan.com
 HOST-SUFFIX,smtcdns.com
-HOST-SUFFIX,smtcdns.net
 HOST-SUFFIX,smzdm.com
 HOST-SUFFIX,snapdrop.net
 HOST-SUFFIX,snimay.com
@@ -2873,8 +2800,6 @@ HOST-SUFFIX,sojump.com
 HOST-SUFFIX,soku.com
 HOST-SUFFIX,solidot.org
 HOST-SUFFIX,somode.com
-HOST-SUFFIX,sony.com
-HOST-SUFFIX,sonyentertainmentnetwork.com
 HOST-SUFFIX,soso.com
 HOST-SUFFIX,sou.com
 HOST-SUFFIX,soufunimg.com
@@ -3042,7 +2967,6 @@ HOST-SUFFIX,tencentwepark.com
 HOST-SUFFIX,tencentyun.com
 HOST-SUFFIX,tendbcluster.com
 HOST-SUFFIX,tendis.net
-HOST-SUFFIX,tenpay.com
 HOST-SUFFIX,tenxcloud.com
 HOST-SUFFIX,test-cignacmb.com
 HOST-SUFFIX,testwaf.com
@@ -3260,7 +3184,6 @@ HOST-SUFFIX,vipdlt.com
 HOST-SUFFIX,vipexam.org
 HOST-SUFFIX,vipmro.com
 HOST-SUFFIX,vipmro.net
-HOST-SUFFIX,visualstudio.com
 HOST-SUFFIX,vmall.com
 HOST-SUFFIX,vmallres.com
 HOST-SUFFIX,vobao.com
@@ -3298,12 +3221,9 @@ HOST-SUFFIX,webgame163.com
 HOST-SUFFIX,webofknowledge.com
 HOST-SUFFIX,webqxs.com
 HOST-SUFFIX,webterren.com
-HOST-SUFFIX,wechat.com
 HOST-SUFFIX,wegame.com
 HOST-SUFFIX,wegamedeveloper.com
 HOST-SUFFIX,wegameplus.com
-HOST-SUFFIX,weibo.com
-HOST-SUFFIX,weibocdn.com
 HOST-SUFFIX,weicaifu.com
 HOST-SUFFIX,weico.cc
 HOST-SUFFIX,weidian.com
@@ -3311,7 +3231,6 @@ HOST-SUFFIX,weilaicaijing.com
 HOST-SUFFIX,weilaiyunxiao.com
 HOST-SUFFIX,weiphone.com
 HOST-SUFFIX,weiphone.net
-HOST-SUFFIX,weixinbridge.com
 HOST-SUFFIX,weiyangx.com
 HOST-SUFFIX,weiyun.com
 HOST-SUFFIX,welltrend-edu.com
@@ -3336,11 +3255,8 @@ HOST-SUFFIX,win007.com
 HOST-SUFFIX,win7china.com
 HOST-SUFFIX,win8.net
 HOST-SUFFIX,win8china.com
-HOST-SUFFIX,windows.com
-HOST-SUFFIX,windows.net
 HOST-SUFFIX,windows10zj.com
 HOST-SUFFIX,windows7en.com
-HOST-SUFFIX,windowsupdate.com
 HOST-SUFFIX,windowsupdate.microsoft.com
 HOST-SUFFIX,windowszj.com
 HOST-SUFFIX,winegame.net
@@ -3389,8 +3305,6 @@ HOST-SUFFIX,x315.com
 HOST-SUFFIX,xa-bank.com
 HOST-SUFFIX,xafc.com
 HOST-SUFFIX,xbiao.com
-HOST-SUFFIX,xbox.com
-HOST-SUFFIX,xboxlive.com
 HOST-SUFFIX,xcsc.com
 HOST-SUFFIX,xdrig.com
 HOST-SUFFIX,xdwan.com
@@ -3543,7 +3457,6 @@ HOST-SUFFIX,ym.run
 HOST-SUFFIX,ymbank.com
 HOST-SUFFIX,ynet.com
 HOST-SUFFIX,ynhr.com
-HOST-SUFFIX,yo9.com
 HOST-SUFFIX,yocajr.com
 HOST-SUFFIX,youba.com
 HOST-SUFFIX,youboy.com
@@ -3715,7 +3628,6 @@ HOST-KEYWORD,alipay
 HOST-KEYWORD,aliyun
 HOST-KEYWORD,baidu
 HOST-KEYWORD,beplay
-HOST-KEYWORD,microsoft
 HOST-KEYWORD,officecdn
 HOST-KEYWORD,taobao
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
@@ -3729,16 +3641,13 @@ USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
-USER-AGENT,Microsoft*
 USER-AGENT,Moke*
 USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
-USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
 USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
